@@ -1,0 +1,8 @@
+{
+    "name":"Lista",
+    "short-name": "milista",
+    "start_url": ".",
+    "display":"standalone",
+    "description": "nueva app PWA"
+   
+}
